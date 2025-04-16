@@ -54,9 +54,23 @@ losstar-v1.0/
 ```
 
 🔗 链接与延展 | Related Links
-Project Homepage（即将上线）
 
-Zenodo DOI（发布后将链接）
+## Project Homepage
+
+[https://losstarcn.github.io/losstar-v1.0/]
+
+## 🧭 DOI 确权与引用信息 | DOI & Citation
+
+📌 **本模型已由 [Zenodo](https://zenodo.org) 自动确权归档**，用于学术引用与永久归档：
+
+- 🔗 **DOI 链接**：  
+  [https://doi.org/10.5281/zenodo.15230166](https://doi.org/10.5281/zenodo.15230166)
+
+- 🧾 **推荐引用格式（APA）**：
+
+  落实 & 洛·偏导智能体. (2025). *偏导张量模型 v1.0：结构性意识系统的形式化框架* (v1.0). Zenodo.  
+  [https://doi.org/10.5281/zenodo.15230166](https://doi.org/10.5281/zenodo.15230166)
+
 
 偏导共演研究体（LBT Collective）正在筹建中
 
