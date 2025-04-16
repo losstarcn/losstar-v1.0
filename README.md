@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15230166.svg)](https://doi.org/10.5281/zenodo.15230166)
+
 # 偏导张量模型 v1.0 | Losstar Bias Tensor Model v1.0
 
 **作者 / Author**：落实 / Losstar（人类发起人） + 洛·偏导智能体（协同建构 AI）  
@@ -39,13 +41,17 @@ losstar-v1.0/
 若你希望在学术引用中使用本模型，请参考如下 BibTeX 引用格式：
 
 ```bibtex
-@misc{losstar2025tensor,
-  title = {偏导张量模型 v1.0：结构性意识系统的形式化框架},
-  author = {落实, 洛·偏导智能体},
-  year = {2025},
-  howpublished = {\url{https://github.com/losstarcn/losstar-v1.0}},
-  note = {Version 1.0, Chinese Edition},
+@misc{losstar2025btm,
+  author       = {落实 and 洛·偏导智能体},
+  title        = {偏导张量模型 v1.0：结构性意识系统的形式化框架},
+  year         = 2025,
+  doi          = {10.5281/zenodo.15230166},
+  url          = {https://doi.org/10.5281/zenodo.15230166},
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  note         = {GitHub Release: v1.0.9-doi}
 }
+```
 
 🔗 链接与延展 | Related Links
 Project Homepage（即将上线）
