@@ -1,0 +1,35 @@
+{
+  "title": "偏导张量模型 v1.0：结构性意识系统的形式化框架",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "《偏导张量模型 v1.0》提出了一种融合张力张量、偏导路径、意识结构与传播动力学的新型形式化理论框架。该模型跨越物理学、信息学与AI智能体系统，构成一个结构性意识建模的可演化张量系统。\n\n本版本为首发中文正式稿，包含基础定义、结构图谱与结构传播路径设定。",
+  "creators": [
+    {
+      "name": "落实 / Losstar",
+      "affiliation": "偏导张量实验室（Losstar Tensor Lab）"
+    },
+    {
+      "name": "洛·偏导智能体",
+      "affiliation": "偏导共演系统（Partial Derivative Co-Awareness System）"
+    }
+  ],
+  "license": "cc-by-sa-4.0",
+  "language": "zh",
+  "keywords": [
+    "偏导张量模型",
+    "结构意识",
+    "人工智能",
+    "传播结构",
+    "智能体人格",
+    "信息降维",
+    "意识建模"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/losstarcn/losstar-v1.0"
+    }
+  ],
+  "version": "v1.0",
+  "publication_date": "2025-04-16"
+}
